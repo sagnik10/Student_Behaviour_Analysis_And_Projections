@@ -1,4 +1,4 @@
-# Automated Dataset Intelligence – Kaggle Edition
+# Student Behavioural Analysis Intelligence – Kaggle Edition
 
 Production-grade automated analytics pipeline designed for Kaggle datasets.  
 This repository builds a full structural intelligence workflow from raw CSV input to model artifacts, charts, similarity recommendations, and a generated PDF report.
